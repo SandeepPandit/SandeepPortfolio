@@ -31,7 +31,7 @@ export const Home = () => {
                   <h1 style={{ color: "red" }}>
                     <ReactTyped
                       className=""
-                      strings={["Developer", "Programmer", "Coder"]}
+                      strings={["Developer", "Learner", "Coder"]}
                       typeSpeed={40}
                       backSpeed={50}
                       loop={true}
