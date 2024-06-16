@@ -6,6 +6,7 @@ import projImg2 from "../assets/img/project-img2.png";
 import projImg3 from "../assets/img/project-img3.png";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
+import projImg4 from "../assets/img/project-img4.png";
 import Codeforces from "../assets/img/Codeforces.jpeg";
 import Codechef from "../assets/img/Codechef.png";
 import LeetCode from "../assets/img/LeetCode.png";
@@ -30,6 +31,12 @@ export const About = () => {
     },
   ];
   const projects = [
+    {
+      title: "HeyFoodie",
+      description: "React, Typescript, Node.js, MongoDB, Stripe, Tailwind CSS",
+      link: "https://heyfoodie.onrender.com/",
+      imgUrl: projImg4,
+    },
     {
       title: "MovieNama",
       description: "HTML, CSS, JavaScript, React, API",
