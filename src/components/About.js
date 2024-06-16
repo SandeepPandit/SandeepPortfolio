@@ -60,7 +60,7 @@ export const About = () => {
   const coding_platforms = [
     {
       title: "Codeforces",
-      description: "Pupil with a Max. Rating of 1324",
+      description: "Specialist a Max. Rating of 1405",
       link: "https://codeforces.com/profile/Cilian_Murphy",
       imgUrl: Codeforces,
     },
@@ -73,7 +73,7 @@ export const About = () => {
     {
       title: "Leetcode",
       link: "https://leetcode.com/u/Sandeep_Pandit/",
-      description: "Maximum Raing of 1707 and solved 600+ questions",
+      description: "Maximum Rating of 1707 and solved 600+ questions",
       imgUrl: LeetCode,
     },
     {
