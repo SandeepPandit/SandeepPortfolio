@@ -13,6 +13,7 @@ import LeetCode from "../assets/img/LeetCode.png";
 import Gfg from "../assets/img/Gfg.jpeg";
 import { Education } from "./Education";
 import dav from "../assets/img/Dav.png";
+import projImg5 from "../assets/img/project-img5.png";
 
 import nit from "../assets/img/NIT.png";
 export const About = () => {
