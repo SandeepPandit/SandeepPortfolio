@@ -37,6 +37,12 @@ export const About = () => {
       link: "https://heyfoodie.onrender.com/",
       imgUrl: projImg4,
     },
+      {
+      title: "Professional Services",
+      description: "React, Node.js, MongoDB, Tailwind CSS",
+      link: "https://professionalservices.onrender.com/",
+      imgUrl: projImg5,
+    },
     {
       title: "MovieNama",
       description: "HTML, CSS, JavaScript, React, API",
